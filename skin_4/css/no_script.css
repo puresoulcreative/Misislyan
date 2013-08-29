@@ -1,0 +1,6 @@
+/**
+   * Noscript properties
+*/
+
+	nav ul li:hover ul ul, nav ul li:hover ul ul ul, nav ul li:hover ul ul ul ul { display:none; }
+	nav ul li:hover ul, nav ul li li:hover ul, nav ul li li li:hover ul, nav ul li li li li:hover ul { display:block; }
